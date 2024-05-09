@@ -1,0 +1,2 @@
+base_ami_id                 = "ami-..."
+staging_public_key          = "ssh-rsa ..."
